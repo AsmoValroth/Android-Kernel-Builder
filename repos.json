@@ -8,14 +8,14 @@
     "withKernelSU": true,
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
+        "repo": "https://github.com/AICP/prebuilts_clang_host_linux-x86_proton",
         "branch": "master",
-        "name": "gas"
+        "name": "AICP"
       },
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
-        "name": "clang"
+        "repo": "https://github.com/AICP/prebuilts_clang_host_linux-x86_proton",
+        "branch": "master",
+        "name": "AICP"
       }
     ],
     "params": {
