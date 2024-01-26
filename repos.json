@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "pnangn-KernelSU",
+      "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
+      "branch": "android-13-release-t1tpn33.58-68-1-2-1",
+      "device": "pnangn"
     },
     "withKernelSU": true,
     "toolchains": [
